@@ -1,3 +1,1 @@
 - 🙋‍♀️ Oi, me chamo Sabrina!
-- 👩‍💻 Posto aqui os projetos que vou fazendo
-- 📚 Estudante em informática
