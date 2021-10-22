@@ -1,7 +1,7 @@
 ## 🙋‍♀️ Oi! Me chamo Sabrina
 - 📗 Atualmente estudo informática
 - 💻 Procuro seguir na área de programação
-- 🐍 Aprendendo Python
+- 🧧 Aprendendo HTML, CSS e JavaScript
 
 
 <div>
