@@ -1,8 +1,6 @@
 ## 🙋‍♀️ Oi! Me chamo Sabrina
 - 📗 Atualmente estudo informática
 - 💻 Procuro seguir na área de programação
-- 🧧 Aprendendo Java
-
 
 <div>
   <a href="https://github.com/sabiss">
