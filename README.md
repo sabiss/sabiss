@@ -1,5 +1,5 @@
 ## 🙋‍♀️ Oi! Me chamo Sabrina
-- 📗 Atualmente estudo informática
+- 📗 Estudante de Ciências da Computação
 - 💻 Procuro seguir na área de programação
 
 <div>
